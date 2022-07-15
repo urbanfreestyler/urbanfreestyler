@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @urbanfreestyler
-- 👀 I’m interested in back-end development and Python in particular
-- 🌱 I’m currently learning JavaScript, TypeScript, 
-- 💞️ I’m looking to collaborate on BlindDating app for which I need a React developer!
+- 👀 I’m interested in back-end development.
+- 🌱 I’m currently learning Solidity, ReactJS and Web3
 - 📫 How to reach me https::/t.me/urbanfreestyler
 
 <!---
